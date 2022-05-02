@@ -1,4 +1,5 @@
-
+## CHECKED and CLEARED by contributor BRANDON HENRY\
+## code is effective and ready
 
 # This function grabs and edits the data to become usable.
 def file_grab():
